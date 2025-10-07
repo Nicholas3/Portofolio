@@ -7,7 +7,7 @@ export const Home = () => {
       {/* {Dark/light mode} */}
          <ThemeToggle />
       {/* {Bg. Effects} */}
-
+         <StarBackground />
       {/* Navbar */}
 
       {/* Main Content */}
