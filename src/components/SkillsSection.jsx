@@ -89,7 +89,7 @@ export const SkillsSection = () => {
 
                         <div className="flex items-center gap-3 border border-primary/20 rounded-xl p-3 hover:bg-primary/5 transition">
                            <Lightbulb className="h-5 w-5 text-primary" />
-                           <span className="text-foreground/90 font-medium">Creativity</span>
+                           <span className="text-foreground/90 font-medium">Problem Solving</span>
                         </div>
 
                         <div className="flex items-center gap-3 border border-primary/20 rounded-xl p-3 hover:bg-primary/5 transition">
