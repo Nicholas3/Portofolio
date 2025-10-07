@@ -11,7 +11,7 @@ export const AboutSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                <div className="space-y-6">
-                  <h3 className="text-2xl font-semibold">About Me</h3>
+                  <h3 className="text-2xl font-semibold">Passion</h3>
 
                   <p className="text-muted-foreground">
                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae reiciendis sunt earum inventore illo harum repellendus voluptatibus doloremque facilis beatae voluptas porro fuga nesciunt cum quo praesentium, minima quisquam officiis.
@@ -21,7 +21,7 @@ export const AboutSection = () => {
                      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque saepe fugit id dignissimos cum. Omnis, dicta quia saepe consequuntur a, laudantium, alias dolores provident quibusdam velit ea exercitationem quisquam aliquam?
                   </p>
 
-                  <div className="flex flex-col sm: flex-row gap-4 pt-4 justify-center">
+                  <div className="flex sm:flex-row gap-4 pt-4 justify-center">
                      <a href="#contact" className="cosmic-button">Get In Touch</a>
 
                      <a href="" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
