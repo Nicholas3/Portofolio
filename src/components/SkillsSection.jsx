@@ -18,7 +18,7 @@ export const SkillsSection = () => {
 
                   <div className="flex flex-col justify-center items-center gap-6">
                      <a
-                     href="https://www.netacad.com/courses/introduction-cybersecurity"
+                     href="https://www.credly.com/badges/532ade21-0c1e-4fa9-a855-7597eae68508"
                      target="_blank"
                      rel="noopener noreferrer"
                      className="flex items-center gap-3 border border-white/30 hover:border-blue-400 transition-all duration-300 rounded-xl px-6 py-4 bg-white/5 hover:bg-white/10 hover:shadow-[0_0_20px_rgba(96,165,250,0.5)] w-full md:w-3/4"
@@ -33,7 +33,7 @@ export const SkillsSection = () => {
                      </a>
 
                      <a
-                     href="https://skillbuilder.aws"
+                     href="https://drive.google.com/file/d/1LJHUJPcxBpkpQAi0OYygCZpv2kRvtWYB/view?usp=sharing"
                      target="_blank"
                      rel="noopener noreferrer"
                      className="flex items-center gap-3 border border-white/30 hover:border-yellow-400 transition-all duration-300 rounded-xl px-6 py-4 bg-white/5 hover:bg-white/10 hover:shadow-[0_0_20px_rgba(250,204,21,0.5)] w-full md:w-3/4"
