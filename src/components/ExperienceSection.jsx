@@ -19,14 +19,16 @@ export const ExperienceSection = () => {
                During my time in <strong>BNCC</strong>, I took part in an intensive Java programming course that covered <strong>Object-Oriented Programming (OOP)</strong> concepts, <strong>GUI development</strong> using <strong>JavaFX</strong>, and several project-based assignments. 
                You can check my projects here:{" "}
                <a 
-                  href="#" 
+                  href="https://github.com/Nicholas3/LnTMidProject_Java-E_NicholasUtama"
+                  target="_blank" 
                   className="text-primary hover:underline hover:text-primary/80 transition-colors"
                >
                   Mid Project
                </a>{" "}
                and{" "}
                <a 
-                  href="#" 
+                  href="https://github.com/Nicholas3/LNTFinalProject_Java-E_NicholasUtama"
+                  target="_blank"
                   className="text-primary hover:underline hover:text-primary/80 transition-colors"
                >
                   Final Project
@@ -56,9 +58,9 @@ export const ExperienceSection = () => {
    ];
 
    return (
-      <section className="relative flex flex-col items-center justify-center px-6 md:px-16 mt-20">
+      <section id="experiences"className="relative flex flex-col items-center justify-center md:px-16 py-24 px-4 relative">
          {/* Title */}
-         <h2 className="text-3xl md:text-4xl font-bold mb-3 text-center">
+         <h2 className="text-3xl md:text-4xl font-bold mb-3 mt-3 text-center">
             <span className="text-primary">My</span> Experience
          </h2>
          <p className="text-muted-foreground text-center max-w-2xl mb-10">
@@ -156,7 +158,7 @@ export const ExperienceSection = () => {
                      />
                   )}
 
-                  <p className="text-sm text-gray-300 leading-relaxed">
+                  <p className="text-sm text-gray-300 leading-relaxed text-justify">
                      {selectedExp.details?.description}
                   </p>
                </div>

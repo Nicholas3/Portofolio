@@ -8,7 +8,7 @@ const projects = [
          "Aplikasi yang dibuat untuk menyediakan rekomendasi nutrisi, dan membuat hidup lebih sehat sesuai dengan SDG 2 dan 3. Pada project ini peran saya adalah membuat prototype dari figma, membuat frontend dengan React Native, berkolaborasi secara aktif dalam tim, serta berkontribusi pada laporan projek.",
       tags: ["Figma", "React Native", "Expo Go"],
       icon: <Layers className="text-primary w-6 h-6" />,
-      url: "#",
+      url: "https://drive.google.com/file/d/1zyCtQk8-35UnBc9IzDgAruded_4LptM2/view",
    },
    {
       id: 2,
@@ -17,7 +17,7 @@ const projects = [
          "Mengerjakan dokumentasi terkait keamanan server serta pengelolaan storage pada Ubuntu Server. Cakupan proyek ini meliputi konfigurasi SSH, pengaturan firewall, serta penerapan Logical Volume Manager, dan full disk encryption (LUKS).",
       tags: ["Ubuntu"],
       icon: <Server className="text-primary w-6 h-6" />,
-      url: "#",
+      url: "https://drive.google.com/drive/folders/1pBM9w-ba8srfgRIJR8s86slUeJn39QaC?usp=sharing",
    },
    {
       id: 3,
@@ -26,7 +26,7 @@ const projects = [
          "Mengembangkan model klasifikasi aksen menggunakan ECAPA-TDNN untuk mengatasi masalah catastrophic forgetting pada sistem pengenalan suara. Pada projek ini peran saya adalah menyusun paper, mendesign poster penelitian, menyusun script presentasi, mencari references, dan berkolaborasi secara aktif dalam tim.",
       tags: ["ECAPA-TDNN", "Python"],
       icon: <Brain className="text-primary w-6 h-6" />,
-      url: "#",
+      url: "https://drive.google.com/file/d/1ipIbipMdlQ72LkEgT09LNMW-PadmxJyB/view?usp=sharing",
    },
    {
       id: 4,
@@ -35,7 +35,7 @@ const projects = [
          "Website yang bertema game racing yang terinspirasi dari Ashpatl 9 yang merupakan project saya pada Semester 2. Projek ini dimulai dengan prototyping dengan Figma, lalu diimplementasikan dengan HTML, CSS, dan JS.",
       tags: ["Figma", "HTML", "CSS", "JavaScript"],
       icon: <Monitor className="text-primary w-6 h-6" />,
-      url: "#",
+      url: "https://github.com/Nicholas3/HCI-Ashpatl9",
    },
 ];
 

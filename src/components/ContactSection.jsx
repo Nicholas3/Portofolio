@@ -21,7 +21,7 @@ export const ContactSection = () => {
 
                   <div className="space-y-6">
                      {/* Email */}
-                     <div className="flex items-center bg-white/5 border border-white/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
+                     <div className="flex items-center bg-white/5 border border-muted-foreground/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
                         <Mail className="h-6 w-6 text-blue-400 mr-4" />
                         <div>
                            <h4 className="font-medium text-muted-foreground text-justify">Email</h4>
@@ -35,20 +35,20 @@ export const ContactSection = () => {
                      </div>
 
                      {/* Phone */}
-                     <div className="flex items-center bg-white/5 border border-white/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
+                     <div className="flex items-center bg-white/5 border border-muted-foreground/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
                         <Phone className="h-6 w-6 text-blue-400 mr-4" />
                         <div>
                            <h4 className="font-medium text-muted-foreground text-justify">Phone</h4>
-                           <p className="text-muted-foreground">08882123131</p>
+                           <p className="text-muted-foreground">(+62)888-7235-187</p>
                         </div>
                      </div>
 
                      {/* Location */}
-                     <div className="flex items-center bg-white/5 border border-white/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
+                     <div className="flex items-center bg-white/5 border border-muted-foreground/10 rounded-lg px-6 py-4 hover:border-blue-400 hover:shadow-[0_0_20px_rgba(96,165,250,0.4)] transition-all duration-300">
                         <MapPin className="h-6 w-6 text-blue-400 mr-4" />
                         <div>
                            <h4 className="font-medium text-muted-foreground text-justify">Location</h4>
-                           <p className="text-muted-foreground">Kemanggisan</p>
+                           <p className="text-muted-foreground">Kemanggisan, Jakarta Barat</p>
                         </div>
                      </div>
                   </div>
@@ -61,19 +61,19 @@ export const ContactSection = () => {
                   </h4>
                   <div className="flex justify-center space-x-6">
                      <a
-                        href="#"
+                        href="https://www.linkedin.com/in/nicholas-utama-860a17292/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="p-3 rounded-full bg-white/5 border border-white/10 hover:border-blue-400 hover:shadow-[0_0_15px_rgba(96,165,250,0.5)] transition-all duration-300"
+                        className="p-3 rounded-full bg-white/5 border border-muted-foreground/10 hover:border-blue-400 hover:shadow-[0_0_15px_rgba(96,165,250,0.5)] transition-all duration-300"
                      >
                         <Linkedin className="h-6 w-6 text-blue-400" />
                      </a>
 
                      <a
-                        href="#"
+                        href="https://github.com/Nicholas3"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="p-3 rounded-full bg-white/5 border border-white/10 hover:border-blue-400 hover:shadow-[0_0_15px_rgba(96,165,250,0.5)] transition-all duration-300"
+                        className="p-3 rounded-full bg-white/5 border border-muted-foreground/10 hover:border-blue-400 hover:shadow-[0_0_15px_rgba(96,165,250,0.5)] transition-all duration-300"
                      >
                         <Github className="h-6 w-6 text-blue-400" />
                      </a>
@@ -82,5 +82,5 @@ export const ContactSection = () => {
             </div>
          </div>
       </section>
-  );
+   );
 };

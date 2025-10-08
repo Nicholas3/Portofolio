@@ -7,7 +7,7 @@ export const AboutSection = () => {
          title: "Who I Am",
          desc: (
             <>
-               Saya adalah <span className="font-semibold text-muted-foreground">Nicholas Utama</span>, saat ini sedang menempuh pendidikan S1 di jurusan <span className="text-primary">Computer Science</span> di Binus University. Saya memiliki minat yang kuat terhadap <span className="font-semibold"> teknologi, pemrograman,</span> dan <span className="font-semibold"> problem solving</span>. Saya berkomitmen untuk terus belajar, berkembang, serta menerapkan pengetahuan saya dalam menciptakan solusi yang bermanfaat di dunia teknologi.
+               My name is <span className="font-semibold text-muted-foreground">Nicholas Utama</span>, currently pursuing a Bachelor's degree in <span className="text-primary">Computer Science</span> at Binus University. I have a strong passion for <span className="font-semibold"> technology, coding,</span> and<span className="font-semibold"> problem-solving.</span> I'm dedicated to continuous learning and growth in the tech field, focusing on <span className="font-semibold">practical applications</span> and <span className="font-semibold">real-world impact.</span> In addition to my academic focus, I have a strong interest in <span className="text-primary font-semibold"> Cloud Computing</span> and <span className="text-primary font-semibold">Cyber Security.</span>
             </>
          ),
       },
@@ -16,7 +16,7 @@ export const AboutSection = () => {
          title: "My Mindset",
          desc: (
             <>
-               Saya terbuka terhadap <span className="text-primary font-semibold">tantangan baru</span>, senang berkolaborasi dengan orang lain, dan selalu berusaha untuk <span className="text-primary font-semibold"> terus tumbuh serta memperluas wawasan</span> dalam setiap kesempatan yang saya temui. Prinsip saya adalah <span className="italic"> learn, adapt, and make an impact.</span>
+               I'm always open to <span className="text-primary font-semibold">new challenges</span>, enjoy collaborating with others, and constantly strive to <span className="text-primary font-semibold"> grow and expand my knowledge</span> through every opportunity I encounter. My guiding principle is <span className="italic"> "learn, adapt, and make an impact."</span>
             </>
          ),
       },
