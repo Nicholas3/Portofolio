@@ -102,7 +102,7 @@ export const ExperienceSection = () => {
                         </div>
 
                         {/* Description */}
-                        <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                        <p className="text-sm text-muted-foreground leading-relaxed mb-3 text-justify">
                            {exp.desc}
                         </p>
 
