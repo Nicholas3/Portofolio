@@ -44,7 +44,7 @@ export const ExperienceSection = () => {
          type: "Volunteer",
          period: "1 month",
          location: "Jakarta, Indonesia",
-         desc: "Memberi pelatihan tentang pemahaman komputer dasar bagi siswa/siswi SD setiap Jumat jam 15.00 sampai 17.00 selama 5 pertemuan.",
+         desc: "Volunteered as an instructor in a 5-week program that focused on teaching basic computer skills to elementary school students.",
          tags: ["Patience", "Adaptability", "Communication"],
          details: {
             description:
