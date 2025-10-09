@@ -5,7 +5,7 @@ const projects = [
       id: 1,
       title: "Nutrifit",
       description:
-         "Aplikasi yang dibuat untuk menyediakan rekomendasi nutrisi, dan membuat hidup lebih sehat sesuai dengan SDG 2 dan 3. Pada project ini peran saya adalah membuat prototype dari figma, membuat frontend dengan React Native, berkolaborasi secara aktif dalam tim, serta berkontribusi pada laporan projek.",
+         "The application was developed to provide nutrition recommendations and promote a healthier lifestyle, align with SDG 2 and SDG 3. In this project, my role was to design the prototype using Figma, develop the frontend using React Native, actively collaborate with the team, and contribute to the project report.",
       tags: ["Figma", "React Native", "Expo Go"],
       icon: <Layers className="text-primary w-6 h-6" />,
       url: "https://drive.google.com/file/d/1zyCtQk8-35UnBc9IzDgAruded_4LptM2/view",
@@ -14,7 +14,7 @@ const projects = [
       id: 2,
       title: "Ubuntu Server & Storage Security Implementation",
       description:
-         "Mengerjakan dokumentasi terkait keamanan server serta pengelolaan storage pada Ubuntu Server. Cakupan proyek ini meliputi konfigurasi SSH, pengaturan firewall, serta penerapan Logical Volume Manager, dan full disk encryption (LUKS).",
+         "Worked on documentation related to server security and storage management on Ubuntu Server. The scope of this project included configuring Secure SSH, setting up a firewall, and implementing Logical Volume Manager (LVM) as well as full disk encryption (LUKS).",
       tags: ["Ubuntu"],
       icon: <Server className="text-primary w-6 h-6" />,
       url: "https://drive.google.com/drive/folders/1pBM9w-ba8srfgRIJR8s86slUeJn39QaC?usp=sharing",
@@ -23,7 +23,7 @@ const projects = [
       id: 3,
       title: "Accent Classification",
       description:
-         "Mengembangkan model klasifikasi aksen menggunakan ECAPA-TDNN untuk mengatasi masalah catastrophic forgetting pada sistem pengenalan suara. Pada projek ini peran saya adalah menyusun paper, mendesign poster penelitian, menyusun script presentasi, mencari references, dan berkolaborasi secara aktif dalam tim.",
+         "Developed an accent classification model using ECAPA-TDNN to address the issue of catastrophic forgetting in speech recognition systems. In this project, my role included writing the research paper, designing the research poster, preparing the presentation script, gathering references, and actively collaborating with the team.",
       tags: ["ECAPA-TDNN", "Python"],
       icon: <Brain className="text-primary w-6 h-6" />,
       url: "https://drive.google.com/file/d/1ipIbipMdlQ72LkEgT09LNMW-PadmxJyB/view?usp=sharing",
@@ -32,7 +32,7 @@ const projects = [
       id: 4,
       title: "Ashpatl 9 Rejens",
       description:
-         "Website yang bertema game racing yang terinspirasi dari Ashpatl 9 yang merupakan project saya pada Semester 2. Projek ini dimulai dengan prototyping dengan Figma, lalu diimplementasikan dengan HTML, CSS, dan JS.",
+         "A racing game-themed website inspired by Asphalt 9, which was my project in the second semester. The project began with prototyping in Figma, followed by implementation using HTML, CSS, and JavaScript.",
       tags: ["Figma", "HTML", "CSS", "JavaScript"],
       icon: <Monitor className="text-primary w-6 h-6" />,
       url: "https://github.com/Nicholas3/HCI-Ashpatl9",
